@@ -1,0 +1,10 @@
+ERROR - 2018-05-26 03:29:46 --> Severity: error --> Exception: Too few arguments to function m_app::getJoinData2Table(), 4 passed in /opt/lampp/htdocs/satulink/application/controllers/Nasabah.php on line 24 and exactly 6 expected /opt/lampp/htdocs/satulink/application/models/M_app.php 46
+ERROR - 2018-05-26 04:39:46 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/lampp/lib/php/extensions/no-debug-non-zts-20160303/php_mysqli.dll' - /opt/lampp/lib/php/extensions/no-debug-non-zts-20160303/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-05-26 04:40:02 --> 404 Page Not Found: Agen/save_add_user
+ERROR - 2018-05-26 04:56:54 --> 404 Page Not Found: Agen/save_add_user
+ERROR - 2018-05-26 04:57:11 --> 404 Page Not Found: User/save_add_user
+ERROR - 2018-05-26 04:57:29 --> Query error: Unknown column 'username' in 'field list' - Invalid query: INSERT INTO `tbl_mpersonal_agen` (`kode_personal_agen`, `username`, `password`, `tipe_user`, `createdate`, `isactive`) VALUES ('U0000000000000000001', NULL, '0a000f688d85de79e3761dec6816b2a5', '1', '2018-05-26 04:57:29', '1')
+ERROR - 2018-05-26 04:58:17 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/lampp/lib/php/extensions/no-debug-non-zts-20160303/php_mysqli.dll' - /opt/lampp/lib/php/extensions/no-debug-non-zts-20160303/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-05-26 04:59:31 --> 404 Page Not Found: Pengaturan/index
+ERROR - 2018-05-26 04:59:31 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/lampp/lib/php/extensions/no-debug-non-zts-20160303/php_mysqli.dll' - /opt/lampp/lib/php/extensions/no-debug-non-zts-20160303/php_mysqli.dll: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-05-26 04:59:33 --> 404 Page Not Found: Pengaturan/index
